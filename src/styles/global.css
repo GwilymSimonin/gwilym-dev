@@ -4,6 +4,7 @@
     margin-right: auto;
     padding-left: 1rem;
     padding-right: 1rem;
+    text-align: justify;
 }
 
 html.dark {
@@ -14,3 +15,17 @@ html.dark {
   .dark .nav-links a {
     color: #fff;
   }
+
+  .nav-links {
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.lien {
+  color:black;
+  text-decoration: none;
+}

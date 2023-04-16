@@ -4,9 +4,6 @@ title: Mon premier post!
 pubDate: 05-04-2023
 description: 'C'est mon premier post.'
 author: 'Gwilym Simonin'
-image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
 tags: ["astro", "blogging", "learning in public"]
 ---
 Voici mon premier post! <br> <br>
@@ -15,7 +12,7 @@ Après mon bac économique et social, j'ai décidé de me lancer dans l'une de m
 A travers mes recherches sur le web et grâce au conseil d'un ami travaillant dans le secteur, j'ai pu trouver une école qui correspondaient à mes attentes: Webforce3. J'ai réussi le test menant à une entretien de motivation pour savoir si j'entrais dans les critères d'acception. Le résultat? Je commence ma rentrée en octobre 2023. Toutefois, j'ai décidé de ne pas me reposer sur mes lauriers en attendant la rentrée et dans la volonté de trouver une bonne alternance, j'ai commencé à apprendre en autodidacte grâce à des ressources gratuites sur le web comme OpenClassroom et avec un professionnel de mon entourage. <br>
 
 J'ai d'abord commencé mon apprentissage par certaines formations OpenClassroom pour combler le retard et l'absence de connaissance en la matière. En parallèle, j'ai appris avec une application mobile les bases du code qui m'ont conduit à créer mon tout premier site web :<br>
-<img src="/src/images/Suivi_site_02-03-2023.png" width="100px" height="100px">
+
 
 mise en place de mon espace de travail : grâce aux conseils de professionnels, j'ai choisis l'IDE Visual Studio Code. J'ai pu le paramétrer et installer des extensions pour avoir la coloration syntaxique de mon code, de l'auto-complétion, de la détection des erreurs, mais aussi voir en direct les modifications que je faisais. J'ai également découvert Git, via le tutoriel OpenClassroom, qui m'a permis d'enregistrer mon travail sous formes de commits, de revenir en arrière, d'éviter les conflits avec d'éventuels collaborateurs, mais aussi de stocker mon projet en ligne sur le site GitHub. <br>
 

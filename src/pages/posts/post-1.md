@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: Mon premier post!
-pubDate: 05-04-2023
+pubDate: 04-05-2023
 description: 'This is the first post of my new Astro blog.'
 author: 'Gwilym Simonin'
 image:
@@ -9,7 +9,6 @@ image:
     alt: 'The Astro logo with the word One.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-Voici mon premier post! <br> <br>
 
 Après mon bac économique et social, j'ai décidé de me lancer dans l'une de mes grandes passions: l'Histoire. C'est ainsi que j'ai effectué une licence d'Histoire, pour financer mes études j'ai fait animateur périscolaire. Le contact avec les enfants et mes ateliers avec eux centrés sur l'Histoire m'ont donné l'envie de devenir enseignant. C'est ainsi, que je me suis tourné vers un master des métiers de l'enseignement, de l'éducation et de la formation que j'ai obtenu avec un mémoire sur : enseigner l'Histoire avec les jeux vidéos dans le secondaire. Cependant, avec la crise du covid et mes expériences personnelles, j'ai trouvé que c'était une voie qui me correspondait de moins en moins. C'est ainsi, que j'ai décidé de me réorienter vers mon autre centre d'intérêt: le web et l'informatique. C'est fort de ce parcours riche en expériences et compétences acquises que je commence cette nouvelle aventure.<br>
 

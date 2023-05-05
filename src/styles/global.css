@@ -18,14 +18,17 @@ html.dark {
 
   .nav-links {
     display: block;
-    text-align: center;
-    padding: 10px 0;
+    text-align: end;
+   margin-left: 0.5em;
     font-size: 1.2rem;
-    font-weight: bold;
-    text-transform: uppercase;
 }
 
-.lien {
-  color:black;
+.Post {
+  color:rgb(0, 0, 0);
   text-decoration: none;
+  margin: 0.5em;
+}
+
+.Post.dark{
+  color: #fff;
 }

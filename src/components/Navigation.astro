@@ -1,12 +1,16 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro';
 import '../styles/global.css';
+import ThemeIcon from './ThemeIcon.astro';
 ---
+<BaseLayout>
+
 <div class="nav-links">
-    ---------------------------------------<br>
-    <a href="/" class="lien">Home</a> <br>
-    ---------------------------------------
+    <ThemeIcon />
+    <a href="/" class="lien"><i class="fa-regular fa-house fa-xl"></i></a> <br>
 </div>
 
-<style>    
+</BaseLayout>
 
+<style>    
 </style>

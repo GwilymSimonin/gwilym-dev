@@ -2,4 +2,4 @@
 const { pubDate, title, url } = Astro.props;
 ---
 
-<li>{new Date(pubDate).toLocaleDateString("fr", { day: "numeric", month: "long", year: "numeric" })}<a href={url} style="margin-left: 1em;">{title}</a></li>
+<li>{new Date(pubDate).toLocaleDateString("fr", { day: "numeric", month: "long", year: "numeric" })}<a href={url}>{title}</a></li>

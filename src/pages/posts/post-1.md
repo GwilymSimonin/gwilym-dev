@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Mon premier post!
+title: Mon premier post !
 pubDate: 04-05-2023
 description: 'This is the first post of my new Astro blog.'
 author: 'Gwilym Simonin'

@@ -3,10 +3,21 @@ import ThemeIcon from './ThemeIcon.astro';
 import '../styles/global.css';
 ---
 <div class="nav-links">
-    <a href="/"><i class="fa-solid fa-house fa-2xl" style="color: black;"></i></a>
+    <a href="/"><i class="fa-solid fa-house fa-2xl sun moon" style="margin-right: 0.5em;"></i></a>
+    <a href="/blog/"><i class="fa-solid fa-book fa-2xl sun moon" style="margin-right: 0.5em"></i></a>
     <ThemeIcon />
      <br>
 </div>
 
 <style>    
+a {
+    color: black;
+}
+
+.sun  { fill: transparent; }
+.moon  { fill: black; }
+    
+  
+:global(.dark) .sun { fill: transparent; }
+:global(.dark) .moon { fill: white; }
 </style>

@@ -21,3 +21,11 @@ Bon c'est loin d'être le plus beau site en 2023, mais au moins c'était mon tou
 Grâce aux conseils de professionnel, j'ai choisis l'environnement de développement intégré (IDE) Visual Studio Code. J'ai pu le paramétrer et installer des extensions pour avoir la coloration syntaxique de mon code, de l'auto-complétion, de la détection des erreurs, mais aussi voir en direct les modifications que je faisais. J'ai également découvert Git, notamment grâce au tutoriel OpenClassroom, qui m'a permis d'apprendre les différentes manipulation possibles. <br>
 
 Sur les conseils d'un professionnel du secteur, je me suis tourné vers Astro afin de créer le site sur lequel vous vous trouvez en ce moment! Ce générateur de site statique qui me semblait le plus simple à prendre en main pour un débutant, et permet de réaliser rapidement un blog simple à partir de template HTML et d'article en markdown. Vu qu'Astro génère de simple page HTML statique, j'ai pu l’héberger gratuitement sur Netlify plutôt que de payer un serveur. Également, Astro étant intégré à l'écosystème JavaScript, tout en limitant au maximum son utilisation, cela m'a permis d'avoir un premier contact avec ce language important du web, sans être perdu.
+
+<style>
+
+img{
+    border-radius: 20px;
+}
+
+</style>
